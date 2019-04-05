@@ -1,5 +1,4 @@
 cv2
 numpy
-math
 matplotlib.pyplot
 nbinteract
